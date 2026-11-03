@@ -2,14 +2,14 @@ import requests
 
 
 def foo(x):
-    return x + 14
+    return x + 23
 
 
 def bar(y):
-    return y ** 3
+    return y ** 23
 
 
 def tajna_funkcja():
-    print('Hello')
+    print('Hello world')
 
 
