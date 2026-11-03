@@ -10,7 +10,7 @@ def bar(y):
 
 
 def tajna_funkcja():
-    print('Not hello')
+    print('hello')
 
 
 def super_funkcja():
