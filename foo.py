@@ -13,3 +13,6 @@ def tajna_funkcja():
     print('Not hello')
 
 
+def super_funkcja():
+    print('Jest super')
+
