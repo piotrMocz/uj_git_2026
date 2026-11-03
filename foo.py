@@ -2,7 +2,7 @@ import requests
 
 
 def foo(x):
-    return x + 3
+    return x + 4
 
 
 def bar(y):
